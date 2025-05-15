@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-brand-dark text-brand-light; /* Dark theme base */
+    /* If you added a custom font in tailwind.config.ts, apply it here: */
+    /* font-family: theme('fontFamily.sans'); */
+  }
