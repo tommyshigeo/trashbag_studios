@@ -1,16 +1,7 @@
-# Fresh project
+🗑️ TRASHBAG STUDIO - Digital Dumpster Fire 🔥
+HEY! So, this is the website for TRASHBAG STUDIO. We make, like, movies and films and games you know
 
-Your new Fresh project is ready to go. You can follow the Fresh "Getting
-Started" guide here: https://fresh.deno.dev/docs/getting-started
+BIG NEWS: I basically just told Gemini (that's my AI buddy, super smart!) what I wanted, and it, like, VIBE CODED this whole thing. I just clicked buttons and said "yeah, that looks cool!" or "nah, more trashy!" 
+Thanks Gemini, very cool
 
-### Usage
-
-Make sure to install Deno: https://deno.land/manual/getting_started/installation
-
-Then start the project:
-
-```
-deno task start
-```
-
-This will watch the project directory and restart as necessary.
+It uses... uh... Deno? And Fresh? Sounds refreshing. And Tailwind, which makes the colors go BRRR and the text look all edgy and stuff. I dunno how, it just does.
